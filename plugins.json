@@ -1,10 +1,10 @@
 [
   {
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
-    "fileHash": "sha256-2cb99a6d85b488654aacb779968905a36c689987bce0bf6e7d9ca75b412e98f8",
+    "fileHash": "sha256-82b8bfe23a32f5de6dd66b70fa5f0b5c801d60f2531d5fd98dbdf7fb7be9ab15",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/youssefsouri90-art/cartoony-local",
-    "fileSize": 41847,
+    "fileSize": 41867,
     "status": 1,
     "language": "ar",
     "authors": [
@@ -15,9 +15,9 @@
       "Anime",
       "Movie"
     ],
-    "version": 17,
+    "version": 18,
     "internalName": "Cartoony",
-    "description": "Fixed Cartoony plugin (no Pegasus)",
+    "description": "Fixed Cartoony plugin",
     "url": "https://raw.githubusercontent.com/youssefsouri90-art/cartoony-local/main/Cartoony.cs3",
     "name": "Cartoony"
   }
