@@ -1,0 +1,8 @@
+{
+  "name": "Cartoony Local",
+  "description": "Fixed Cartoony plugin",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/youssefsouri90-art/cartoony-local/main/plugins.json"
+  ]
+}
