@@ -1,6 +1,24 @@
 [
   {
-    "name": "Cartoony",
-    "url": "https://raw.githubusercontent.com/youssefsouri90-art/cartoony-local/main/Cartoony.cs3"
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
+    "fileHash": "sha256-31a41237cfcc54200066dfe71b29b4e2992f46cc06d482f11ac7b7a26b433488",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/youssefsouri90-art/cartoony-local",
+    "fileSize": 42271,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+      "Youssef Souri"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Anime",
+      "Movie"
+    ],
+    "version": 15,
+    "internalName": "Cartoony",
+    "description": "Fixed Cartoony plugin",
+    "url": "https://raw.githubusercontent.com/youssefsouri90-art/cartoony-local/main/Cartoony.cs3",
+    "name": "Cartoony"
   }
 ]
