@@ -1,10 +1,10 @@
 [
   {
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
-    "fileHash": "sha256-82b8bfe23a32f5de6dd66b70fa5f0b5c801d60f2531d5fd98dbdf7fb7be9ab15",
+    "fileHash": "sha256-3bf9a412ef547e89ced89d35c76ef2330d13d5d17165586616328a2398a0d44e",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/youssefsouri90-art/cartoony-local",
-    "fileSize": 41867,
+    "fileSize": 41847,
     "status": 1,
     "language": "ar",
     "authors": [
@@ -15,9 +15,9 @@
       "Anime",
       "Movie"
     ],
-    "version": 18,
+    "version": 19,
     "internalName": "Cartoony",
-    "description": "Fixed Cartoony plugin",
+    "description": "Cartoony patched for safer episode links",
     "url": "https://raw.githubusercontent.com/youssefsouri90-art/cartoony-local/main/Cartoony.cs3",
     "name": "Cartoony"
   }
