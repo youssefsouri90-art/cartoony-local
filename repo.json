@@ -1,8 +1,8 @@
 {
-  "name": "Cartoony Local",
-  "description": "Fixed Cartoony plugin",
+  "name": "Youssef Cartoon Repo",
+  "description": "مستودع يوسف لمحتوى الكرتون والأنمي",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/youssefsouri90-art/cartoony-local/main/plugins.json"
+    "https://raw.githubusercontent.com/youssefsouri90-art/youssef_cartoon/main/plugins.json"
   ]
 }
