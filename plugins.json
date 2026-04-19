@@ -8,11 +8,11 @@
     "language": "ar",
     "tvTypes": ["TvSeries", "Anime", "Movie"],
     "iconUrl": "https://carateen.tv/favicon.ico",
-    "url": "https://raw.githubusercontent.com/youssefsouri90-art/youssef_cartoon/main/CarateenProvider/build/outputs/aar/CarateenProvider-debug.aar",
+    "url": "https://raw.githubusercontent.com/youssefsouri90-art/cartoony-local/main/CarateenProvider.cs3",
     "fileHash": "sha256-w9ZFNaf0tqm3B2dk4T0E6ZPV/C2Jl3++MSESyOjcEos=",
     "fileSize": 776,
     "apiVersion": 1,
     "status": 1,
-    "repositoryUrl": "https://github.com/youssefsouri90-art/youssef_cartoon"
+    "repositoryUrl": "https://github.com/youssefsouri90-art/cartoony-local"
   }
 ]
