@@ -1,24 +1,18 @@
 [
   {
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
-    "fileHash": "sha256-3bb13f19a00fffe43feeb07eb5ce654620d7926730c18beecad65d23cc389410",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/youssefsouri90-art/cartoony-local",
-    "fileSize": 41847,
-    "status": 1,
+    "name": "Carateen",
+    "internalName": "CarateenProvider",
+    "description": "إضافة موقع كاراطين لمشاهدة الأنمي والكرتون المدبلج",
+    "authors": ["Momen"],
+    "version": 1,
     "language": "ar",
-    "authors": [
-      "Momen"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Anime",
-      "Movie"
-    ],
-    "version": 21,
-    "internalName": "Cartoony",
-    "description": "Cartoony with strict episode link paths",
-    "url": "https://raw.githubusercontent.com/youssefsouri90-art/cartoony-local/main/Cartoony.cs3",
-    "name": "Cartoony"
+    "tvTypes": ["TvSeries", "Anime", "Movie"],
+    "iconUrl": "https://carateen.tv/favicon.ico",
+    "url": "https://raw.githubusercontent.com/youssefsouri90-art/youssef_cartoon/main/CarateenProvider/build/outputs/aar/CarateenProvider-debug.aar",
+    "fileHash": "sha256-w9ZFNaf0tqm3B2dk4T0E6ZPV/C2Jl3++MSESyOjcEos=",
+    "fileSize": 776,
+    "apiVersion": 1,
+    "status": 1,
+    "repositoryUrl": "https://github.com/youssefsouri90-art/youssef_cartoon"
   }
 ]
